@@ -19,7 +19,7 @@
     "cordova-android": "^8.0.0",
     "cordova-browser": "^6.0.0",
     "core-js": "^2.6.5",
-    "vant": "^1.6.21",
+    "vant": "^2.1.8",
     "vue": "^2.6.10"
   },
   "devDependencies": {
